@@ -3,10 +3,10 @@ Book Recommendation System Using Machine Learning
 
 
 
-G.Siva Sankar Tarun
+1. G.Siva Sankar Tarun
 
-G. Anjani Sudheer
+2. G. Anjani Sudheer
 
-K.Kalyan
+3. K.Kalyan
 
-Dr.B.Jhansi Vazram
+4. Dr.B.Jhansi Vazram
